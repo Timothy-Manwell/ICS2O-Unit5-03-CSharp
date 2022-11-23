@@ -9,7 +9,7 @@ class Program
     public static void Main(string[] args)
     {
         int age;
-      
+
         Console.WriteLine("What Movies Can You Watch?");
         Console.Write("\nEnter your age: ");
         age = Convert.ToInt32(Console.ReadLine());
